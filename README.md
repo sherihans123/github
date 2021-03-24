@@ -1,4 +1,4 @@
-# Github - Learns Guide
+# Github - Learners Guide
 
 This Git learns guide will help you learn ‘What is version control?,’ different types of version controls, the importance of Git, Course content and many other important concepts related to Git. If you are an Git aspirant and preparing for any [Git certification](https://intellipaat.com/git-github-training/), this article will be helpful for you. Considering that, let us jump into our conversation on the overview of Git.
 
